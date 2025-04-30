@@ -7,3 +7,5 @@ Para rodar esse projeto na sua máquina, por favor digite:
 ```
 node app.js
 ```
+
+Inclusão de texto pelo colaborador renato.stoll1980@gmail.com.
